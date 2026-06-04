@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+slack_notify.js
+
+.env
+test*
+.claude/settings*
